@@ -1,7 +1,7 @@
-import ThriveGuideLanding from './ThriveGuideLanding'
+import LandingPage from './ThriveGuideLanding'
 
 function App() {
-  return <ThriveGuideLanding />
+  return <LandingPage />
 }
 
 export default App
